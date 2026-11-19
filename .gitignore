@@ -1,0 +1,4 @@
+# Private build tools: contain the plain-text answer key. Do not publish.
+tools/
+*.zip
+.DS_Store
